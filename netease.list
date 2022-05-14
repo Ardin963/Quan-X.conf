@@ -1,18 +1,15 @@
 http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=🎶Music1
 http=lolico.me:443,fast-open=false, udp-relay=false, tag=🎶Music2
-http=block4music.poetyin.me:39000, fast-open=false, udp-relay=false, tag=🎶Music3
-http=block4music.poetyin.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music4
-http=106.52.127.71:19931, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music5
-http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music6
-http=aimer.one:3333,fast-open=false, udp-relay=false, tag=🎶Music7
-http=3music.poetyin.me:100, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music8
-http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music9
-http=taron.top:100, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music10
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎶Music11
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music12
-shadowsocks=blockmusic.poetyin.me:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music13
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music14
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music15
-🎶Music16 = http,106.52.127.72,19951
-🎶Music17 = http,os.dlj.tf,20000
-🎶Music18 = http,os.dlj.tf,30000
+http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music3
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music4
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music5
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music6
+#shadowsocks=blockmusic.poetyin.me:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music13
+#http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎶Music11
+#http=taron.top:100, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music10
+#http=block4music.poetyin.me:39000, fast-open=false, udp-relay=false, tag=🎶Music3
+#http=block4music.poetyin.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music4
+#http=106.52.127.71:19931, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music5
+#http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music6
+#http=aimer.one:3333,fast-open=false, udp-relay=false, tag=🎶Music7
+#http=3music.poetyin.me:100, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music8
