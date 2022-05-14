@@ -13,3 +13,15 @@ shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.
 #http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music6
 #http=aimer.one:3333,fast-open=false, udp-relay=false, tag=🎶Music7
 #http=3music.poetyin.me:100, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music8
+
+http=106.52.127.71:19931, over-tls=false, fast-open=false, udp-relay=false, tag=收费请举报
+
+http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐1
+
+http=block4music.poetyin.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐2
+
+http=3music.poetyin.me:100, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐3
+
+http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐4
+
+http=taron.top:100, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐5
