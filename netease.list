@@ -1,13 +1,26 @@
-http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=🎶Music1
-http=lolico.me:443,fast-open=false, udp-relay=false, tag=🎶Music2
-http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music3
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music4
+http=lolico.me:443,fast-open=false, udp-relay=false, tag=🎶Music1
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=🎶Music2
+http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music3
+http=SALVAN.ICU:19980, over-tls=false, fast-open=false, udp-relay=false, tag=M🎶Music4
 shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music5
 shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music6
+shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎶Music7
+shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎶Music8
+
+#自建的，不知道怎么用
 http=141.147.182.112:8848, tag=🎶Music10
 
-🎶Music9 = http,106.52.127.72:19951
-#🎶Music2 = http,os.dlj.tf,20000,
+#资源来源1
+#更新时间：2022.5.5
+#https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt
+#资源频道：https://t.me/yqc_123
+
+#重复节点
+#http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=🎶Music3
+#http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=🎶Music1
+# 过期节点
+#🎶Music9 = http,106.52.127.72,19951
+#🎶Music2 = http,os.dlj.tf,20000
 #🎶Music3 = http,os.dlj.tf,30000
 #shadowsocks=blockmusic.poetyin.me:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶Music13
 #http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎶Music11
